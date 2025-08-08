@@ -209,10 +209,15 @@ When you run the program:
 ================= Inventory Management System =================
 <br>
 1. Add New Item
+    <br>
 2. View All Item
+     <br>
 3. Search Item
+     <br>
 4. Update Item
+     <br>
 5. Display Out Of Stocks Item
+     <br>
 6. Exit
 <br>
 enter your choice : 1
